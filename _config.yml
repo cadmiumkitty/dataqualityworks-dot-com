@@ -1,0 +1,8 @@
+title: Data Quality Works
+subtitle: A consulting firm focusing on data governance, quality and risk.
+description: 
+email: info@dataqualityworks.com
+url: "https://dataqualityworks.com"
+
+exclude:
+- README.md
