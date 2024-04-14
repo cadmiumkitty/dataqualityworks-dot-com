@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Privacy Policy
+description: Data Quality Works Privacy Policy
 ---
 
 # Privacy Policy
