@@ -14,4 +14,4 @@ layout: default
 
 Building Business Glossaries in Microsoft Purview without clear requirements and without making upfront design decisions will cause pain later on. The critical decisions are whether to catalogue concepts or terms, how to deal with facets, and how to structure glossaries based on who has the authority over definitions.
 
-[View on GitHub](https://www.linkedin.com/pulse/building-business-glossaries-microsoft-purview-eugene-morozov-tux2c)
+[View on LinkedIn](https://www.linkedin.com/pulse/building-business-glossaries-microsoft-purview-eugene-morozov-tux2c)
