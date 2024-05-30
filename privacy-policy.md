@@ -8,15 +8,15 @@ description: Data Quality Works Privacy Policy
 
 Data Quality Works Pty Ltd is committed to providing quality services to you and this policy outlines our ongoing obligations to you in respect of how we manage your Personal Information.
 
-We have adopted the Australian Privacy Principles (APPs) contained in the Privacy Act 1988 (Cth) (the Privacy Act). The NPPs govern the way in which we collect, use, disclose, store, secure and dispose of your Personal Information.
+We have adopted the Australian Privacy Principles (APPs) contained in the Privacy Act 1988 (Cth) (the Privacy Act). The APPs govern the way in which we collect, use, disclose, store, secure and dispose of your Personal Information.
 
 A copy of the Australian Privacy Principles may be obtained from the website of The Office of the Australian Information Commissioner at [https://www.oaic.gov.au/](https://www.oaic.gov.au/).
 
 ## What is Personal Information and why do we collect it?
 
-Personal Information is information or an opinion that identifies an individual. Examples of Personal Information we collect includes names, addresses, email addresses, phone and facsimile numbers.
+Personal Information is information or an opinion that identifies an individual. Examples of Personal Information we collect includes names, addresses, email addresses, and phone numbers.
 
-This Personal Information is obtained in many ways including interviews, correspondence, by telephone, by email, via our website [https://dataqualityworks.com](https://dataqualityworks.com), from your website, from media and publications, from other publicly available sources, and from third parties. We don’t guarantee website links or policy of authorised third parties.
+This Personal Information is obtained in many ways including interviews, surveys, correspondence, by telephone, by email, via our website [https://dataqualityworks.com](https://dataqualityworks.com), from your website, from media and publications, from other publicly available sources, and from third parties. We don’t guarantee website links or policy of authorised third parties.
 
 We collect your Personal Information for the primary purpose of providing our services to you, providing information to our clients and marketing. We may also use your Personal Information for secondary purposes closely related to the primary purpose, in circumstances where you would reasonably expect such use or disclosure. You may unsubscribe from our mailing/marketing lists at any time by contacting us in writing.
 
