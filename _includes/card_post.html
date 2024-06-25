@@ -1,23 +1,21 @@
 <div class="card">
     <div class="card-image">
         <figure class="image is-4by3">
-            <img src="{{ include.image }}" alt="{{ include.alt }}" />
+            <a href="{{ include.link }}"><img src="{{ include.image }}" alt="{{ include.alt }}" /></a>
         </figure>
     </div>
     <header class="card-header">
-        <p class="card-header-title">{{ include.title }}</p>
+        <a href="{{ include.link }}" class="card-header-title">{{ include.title }}</a>
     </header>
     <div class="card-content">
         <div class="content">
             {{ include.description }}
-            <br />
-            Published on: <time datetime="2016-1-1">{{ include.datetime }}</time>
         </div>
     </div>
     <footer class="card-footer">
         <p class="card-footer-item">
             <span>
-                View on <a href="{{ include.link }}">{{ include.channel }}</a>
+                Published on <time datetime="2016-1-1">{{ include.datetime }}</time> on <a href="{{ include.link }}">{{ include.channel }}</a>.
             </span>
         </p>
     </footer>

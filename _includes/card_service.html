@@ -1,0 +1,16 @@
+<div class="card">
+    <div class="card-image">
+        <figure class="image is-4by3">
+            <a href="services/{{ include.slug }}"><img src="{{ include.image }}" alt="{{ include.alt }}" /></a>
+        </figure>
+    </div>
+    <header class="card-header">
+        <a href="services/{{ include.slug }}" class="card-header-title">{{ include.title }}</a>
+    </header>
+    <div class="card-content">
+        <div class="content">
+            {{ include.description }}
+            <a href="services/{{ include.slug }}">Read more about benefits.</a>
+        </div>
+    </div>
+</div>

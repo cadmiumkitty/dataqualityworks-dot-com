@@ -3,5 +3,10 @@ description: A consulting firm focusing on data governance, quality and risk.
 email: info@dataqualityworks.com
 url: "https://dataqualityworks.com"
 
+collections:
+  services:
+    output: true
+    permalink: services/:slug/
+
 exclude:
 - README.md

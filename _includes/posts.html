@@ -3,7 +3,7 @@
         {% assign weighted_posts = site.posts | sort: "weight" | reverse %}
         {% for post in weighted_posts %}
         <div class="cell">
-            {% include card.html image = post.image alt = post.alt title = post.title description = post.description datetime = post.datetime link = post.link channel = post.channel %}
+            {% include card_post.html image = post.image alt = post.alt title = post.title description = post.description datetime = post.datetime link = post.link channel = post.channel %}
         </div>
         {% endfor %}
     </div>
