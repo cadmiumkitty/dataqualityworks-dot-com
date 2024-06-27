@@ -6,7 +6,7 @@ description: There are many ways to organise resources in Microsoft Purview Clas
 link: https://www.linkedin.com/pulse/organising-microsoft-purview-classic-eugene-morozov-rbiqc
 weight: 13
 channel: LinkedIn
-datetime: 08 May 2024
+datetime: 8 May 2024
 layout: default
 ---
 
